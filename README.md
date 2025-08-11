@@ -7,6 +7,7 @@
 Este guia foi criado para servir como um **manual rápido** de Git, focado em quem quer aprender **fazendo**.
 Trazendo explicações simples, exemplos comentados e um fluxo de trabalho que você pode aplicar hoje mesmo no seu projeto.
 </div>
+
 ---
 
 ## 🚀 1. O que é o Git?
@@ -196,11 +197,4 @@ git merge nova-feature
 
 * [Documentação oficial do Git](https://git-scm.com/doc)
 * [Guia rápido GitHub](https://docs.github.com/pt)
-* [Pro Git (livro gratuito)](https://git-scm.com/book/pt-br/v2)
 
----
-
-Se quiser, eu posso **incluir exemplos visuais de antes e depois de cada comando** para mostrar **como os arquivos aparecem no Git** antes e depois do commit/push/pull.
-Isso deixa o guia ainda mais prático e “de impacto” para quem está começando.
-
-Quer que eu já faça essa versão com antes/depois visual?
