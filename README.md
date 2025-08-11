@@ -1,10 +1,12 @@
-# 📚 Guia Prático de Git
+<div align="center">
+
+# 📚 Guia Prático sobre Git
 
 **Controle de versão de forma clara e descomplicada**
 
 Este guia foi criado para servir como um **manual rápido** de Git, focado em quem quer aprender **fazendo**.
-Ele traz explicações simples, exemplos comentados e um fluxo de trabalho que você pode aplicar hoje mesmo no seu projeto.
-
+Trazendo explicações simples, exemplos comentados e um fluxo de trabalho que você pode aplicar hoje mesmo no seu projeto.
+</div>
 ---
 
 ## 🚀 1. O que é o Git?
